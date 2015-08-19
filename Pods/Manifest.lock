@@ -1,0 +1,15 @@
+PODS:
+  - GoogleAnalytics-iOS-SDK (3.12):
+    - GoogleAnalytics-iOS-SDK/Core (= 3.12)
+  - GoogleAnalytics-iOS-SDK/Core (3.12)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - GoogleAnalytics-iOS-SDK
+  - Kiwi
+
+SPEC CHECKSUMS:
+  GoogleAnalytics-iOS-SDK: 13241762fa4aea845eb75bef6c0da3427a26e7b3
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+COCOAPODS: 0.38.2
