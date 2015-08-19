@@ -1,9 +1,9 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## GoogleAnalytics-iOS-SDK
+## GoogleAnalytics
 
-Copyright 2009 - 2015 Google, Inc. All rights reserved.
+Copyright 2015 Google Inc.
 
 ## Kiwi
 

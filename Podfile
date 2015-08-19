@@ -1,7 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 
-pod 'GoogleAnalytics-iOS-SDK'
+pod 'GoogleAnalytics'
 pod 'Kiwi'
 
 target :specs do
